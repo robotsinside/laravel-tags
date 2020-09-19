@@ -6,7 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/robotsinside/laravel-tags.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-tags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A simple package for tagging Eloquent models in Laravel. This package is a sibling of [Laravel Categories](https://github.com/robotsinside/laravel-categories), which can be used to categegorise Eloquent models. The API is pretty much the same as this one.
+A simple package for tagging Eloquent models in Laravel. This package is a sibling of [Laravel Categories](https://github.com/robotsinside/laravel-categories), which can be used to categorise Eloquent models. The API is the same as this one.
 
 ## Installation
 
