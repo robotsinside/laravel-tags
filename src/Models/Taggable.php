@@ -12,7 +12,7 @@ class Taggable extends Model
     /**
      * Get the tagged model
      *
-     * @return Illuminate\Database\Eloquent\Relations\MorphTo
+     * @return \Illuminate\Database\Eloquent\Relations\MorphTo
      */
     public function taggable()
     {

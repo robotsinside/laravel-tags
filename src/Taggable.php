@@ -31,7 +31,7 @@ trait Taggable
      */
     public function tag($tags)
     {
-        $this->addTags($this->getWorkableTags($tags));
+        $this->addTags($this->getNormalizedTags($tags));
     }
 
     /**
@@ -45,7 +45,7 @@ trait Taggable
         if ($tags === null) {
             $this->removeAllTags();
         } else {
-            $this->removeTags($this->getWorkableTags($tags));
+            $this->removeTags($this->getNormalizedTags($tags));
         }
     }
 
@@ -108,7 +108,7 @@ trait Taggable
      * @param mixed $tags
      * @return Collection
      */
-    private function getWorkableTags($tags)
+    private function getNormalizedTags($tags)
     {
         if (is_array($tags)) {
             return $this->getTagModels($tags);
