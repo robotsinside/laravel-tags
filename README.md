@@ -133,6 +133,10 @@ In addition, a scope on the `Taggable` model is provided to constrain records cr
 -   `Taggable::taggedWithin('1 month');`
 -   `Taggable::taggedWithin('2 years');`
 
+## Security
+
+If you discover any security related issues, please email robertfrancken@gmail.com instead of using the issue tracker.
+
 ## Credits
 
 - [Rob Francken](https://github.com/robotsinside)
