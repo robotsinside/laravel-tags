@@ -1,8 +1,6 @@
 # Laravel Tags
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/robotsinside/laravel-tags.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-tags)
-[![Build Status](https://img.shields.io/travis/robotsinside/laravel-tags/master.svg?style=flat-square)](https://travis-ci.org/robotsinside/laravel-tags)
-[![Quality Score](https://img.shields.io/scrutinizer/g/robotsinside/laravel-tags.svg?style=flat-square)](https://scrutinizer-ci.com/g/robotsinside/laravel-tags)
 [![Total Downloads](https://img.shields.io/packagist/dt/robotsinside/laravel-tags.svg?style=flat-square)](https://packagist.org/packages/robotsinside/laravel-tags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
